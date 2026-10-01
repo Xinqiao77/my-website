@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: replace www.example.com with the real domain -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.example.com/</loc></url>
-  <url><loc>https://www.example.com/science.html</loc></url>
-  <url><loc>https://www.example.com/publications.html</loc></url>
-  <url><loc>https://www.example.com/services.html</loc></url>
-  <url><loc>https://www.example.com/about.html</loc></url>
-  <url><loc>https://www.example.com/partner.html</loc></url>
-  <url><loc>https://www.example.com/news.html</loc></url>
-  <url><loc>https://www.example.com/careers.html</loc></url>
-  <url><loc>https://www.example.com/contact.html</loc></url>
-  <url><loc>https://www.example.com/privacy.html</loc></url>
-  <url><loc>https://www.example.com/terms.html</loc></url>
-  <url><loc>https://www.example.com/disclaimer.html</loc></url>
+  <url><loc>https://assisi.care/</loc></url>
+  <url><loc>https://assisi.care/science.html</loc></url>
+  <url><loc>https://assisi.care/publications.html</loc></url>
+  <url><loc>https://assisi.care/services.html</loc></url>
+  <url><loc>https://assisi.care/about.html</loc></url>
+  <url><loc>https://assisi.care/partner.html</loc></url>
+  <url><loc>https://assisi.care/news.html</loc></url>
+  <url><loc>https://assisi.care/careers.html</loc></url>
+  <url><loc>https://assisi.care/contact.html</loc></url>
+  <url><loc>https://assisi.care/privacy.html</loc></url>
+  <url><loc>https://assisi.care/terms.html</loc></url>
+  <url><loc>https://assisi.care/disclaimer.html</loc></url>
 </urlset>

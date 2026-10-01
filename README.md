@@ -55,7 +55,7 @@ The lettering has been converted to outlines, so the logos look the same on ever
 
 ## Before going live: to-do list
 
-1. **Domain:** find and replace `https://www.example.com` in all `.html` files, `robots.txt` and `sitemap.xml`.
+1. **Domain:** done. The site uses `https://assisi.care`, set in the `CNAME` file and in each page's canonical/social tags.
 2. **Email:** find and replace `contact@example.com` in all `.html` files and in `js/main.js`.
 3. **Forms:** the contact and newsletter forms don't send anything yet. Create a form endpoint (for example with [Formspree](https://formspree.io)), then paste its URL into `FORM_ENDPOINT` and `NEWSLETTER_ENDPOINT` at the top of `js/main.js`. Until you do, the forms ask visitors to email you instead.
 4. **Placeholder content:** search the `.html` files for `Placeholder` and `[XX]`. This covers the data figures, team names and bios, publications, news posts, milestones, location and partner logos.
