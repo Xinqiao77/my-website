@@ -1,0 +1,8 @@
+# Design export (not part of the website)
+*.zip
+
+# Operating system / editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

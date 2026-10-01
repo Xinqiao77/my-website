@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" width="520" height="520" fill="none">
+  <!-- Decorative illustration: a BSP protein chain reaching a cancer cell (terracotta)
+       while the normal cells around it (cream) are left alone. -->
+  <circle cx="260" cy="260" r="244" fill="#1B3A4B" fill-opacity="0.55"/>
+  <circle cx="260" cy="260" r="186" stroke="#F7F3EE" stroke-opacity="0.08" stroke-width="1.5"/>
+  <circle cx="260" cy="260" r="120" stroke="#F7F3EE" stroke-opacity="0.06" stroke-width="1.5"/>
+
+  <!-- Normal cells -->
+  <g stroke="#F7F3EE" stroke-opacity="0.55" stroke-width="2">
+    <circle cx="112" cy="168" r="44"/>
+    <circle cx="418" cy="150" r="36"/>
+    <circle cx="128" cy="380" r="40"/>
+    <circle cx="410" cy="392" r="48"/>
+  </g>
+  <g fill="#F7F3EE" fill-opacity="0.22">
+    <circle cx="118" cy="160" r="13"/>
+    <circle cx="412" cy="156" r="10"/>
+    <circle cx="136" cy="376" r="12"/>
+    <circle cx="402" cy="386" r="14"/>
+  </g>
+
+  <!-- Cancer cell: irregular outline -->
+  <path d="M300 222 C334 214 372 236 378 272 C386 306 366 330 346 350 C322 372 282 374 258 356 C232 338 218 312 226 284 C232 258 262 230 300 222 Z"
+        fill="#D98A76" fill-opacity="0.14" stroke="#D98A76" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <path d="M290 280 c10 -8 26 -6 30 6 c4 12 -6 22 -18 22 c-12 0 -20 -16 -12 -28 Z" fill="#D98A76" fill-opacity="0.45"/>
+  <circle cx="336" cy="318" r="9" fill="#D98A76" fill-opacity="0.45"/>
+
+  <!-- Protein chain (same fold as the logo mark) -->
+  <g transform="translate(118 12) scale(2.2)">
+    <path d="M60 18 L60.6 19 L61.4 19.9 L62.4 20.8 L63.5 21.6 L64.6 22.4 L65.6 23.2 L66.3 24.2 L66.7 25.3 L66.7 26.5 L66.4 28 L65.6 29.6 L64.5 31.3 L63.2 33.1 L62.1 34.8 L61.4 36.4 L61.1 37.8 L61.2 39 L61.8 40 L62.9 40.8 L64.4 41.4 L66.3 41.9 L68.4 42.3 L70.6 42.6 L72.8 43 L74.8 43.4 L76.6 43.9 L78 44.6 L79 45.4 L79.5 46.5 L79.5 47.8 L79 49.2 L78.2 50.8 L77.1 52.5 L75.8 54.3 L74.5 56.2 L73.3 57.9 L72.3 59.6 L71.6 61.2 L71.3 62.5 L71.5 63.7 L72.2 64.7 L73.4 65.5 L75 66.1 L76.9 66.5 L79 66.9 L81.2 67.2 L83.4 67.6 L85.4 68 L87.1 68.6 L88.5 69.3 L89.4 70.1 L89.8 71.2 L89.7 72.5 L89.2 74 L88.3 75.6 L87.2 77.4 L85.9 79.2 L84.6 81 L83.4 82.7 L82.4 84.4 L81.8 85.9 L81.6 87.3 L81.9 88.4 L82.7 89.4 L83.9 90.1 L85.5 90.7 L87.5 91.1 L89.7 91.5 L91.7 91.9 L93.4 92.5 L94.6 93.2 L95.5 94.1 L96 95.1 L96.2 96.3 L96.1 97.6 L95.9 99 L95.7 100.3 L95.6 101.6 L95.7 102.9 L96 104"
+          stroke="#F7F3EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="14" r="4.5" fill="#D98A76"/>
+    <circle cx="66.7" cy="26.5" r="3" fill="#D98A76"/>
+    <circle cx="79.5" cy="47.8" r="3" fill="#D98A76"/>
+    <circle cx="89.8" cy="71.2" r="3" fill="#D98A76"/>
+  </g>
+
+  <!-- Binding highlight where the chain meets the cancer cell -->
+  <g stroke="#D98A76" stroke-width="2" stroke-linecap="round">
+    <path d="M352 232 l12 -10"/>
+    <path d="M358 246 l16 -2"/>
+    <path d="M340 222 l4 -14"/>
+  </g>
+</svg>

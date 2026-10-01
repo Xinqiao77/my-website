@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <!-- Placeholder for a lab or team photograph. Replace with a real photo (1200 x 800 px or larger). -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B3A4B"/>
+      <stop offset="1" stop-color="#132A37"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <g fill="none" stroke="#F7F3EE" stroke-opacity="0.18" stroke-width="2">
+    <circle cx="220" cy="210" r="90"/>
+    <circle cx="980" cy="180" r="70"/>
+    <circle cx="1010" cy="600" r="110"/>
+    <circle cx="240" cy="620" r="60"/>
+  </g>
+  <g fill="none" stroke="#D98A76" stroke-opacity="0.7" stroke-width="3">
+    <path d="M600 250 C640 270 590 310 620 340 C650 370 700 350 690 400 C680 450 610 430 620 480 C630 530 690 520 690 560"/>
+  </g>
+  <circle cx="600" cy="244" r="10" fill="#D98A76"/>
+  <text x="600" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" letter-spacing="4" fill="#F7F3EE" fill-opacity="0.75">LAB / TEAM PHOTO PLACEHOLDER</text>
+</svg>

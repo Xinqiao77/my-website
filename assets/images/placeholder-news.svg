@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <!-- Placeholder for a news or article image. Replace with a real image (1600 x 900 px works well). -->
+  <rect width="800" height="450" fill="#EFE8DF"/>
+  <g fill="none" stroke="#1B3A4B" stroke-opacity="0.14" stroke-width="2">
+    <circle cx="140" cy="120" r="70"/>
+    <circle cx="680" cy="330" r="90"/>
+  </g>
+  <path d="M390 110 C420 125 380 155 405 175 C430 195 470 180 462 215 C454 250 400 238 410 272 C420 306 468 300 468 330"
+        fill="none" stroke="#C0705F" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="390" cy="104" r="8" fill="#C0705F"/>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#4D6470">IMAGE PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Placeholder portrait. Replace with a real square photo (at least 600 x 600 px). -->
+  <rect width="400" height="400" fill="#E7DFD4"/>
+  <circle cx="200" cy="158" r="64" fill="#C9BCAD"/>
+  <path d="M84 400 C92 300 140 256 200 256 C260 256 308 300 316 400 Z" fill="#C9BCAD"/>
+  <text x="200" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" letter-spacing="2" fill="#4D6470">PHOTO PLACEHOLDER</text>
+</svg>
